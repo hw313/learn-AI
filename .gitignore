@@ -1,4 +1,5 @@
-/*
-!.gitignore
-!/learn-log/
-!*.md
+venv/
+.idea/
+*.pyc
+__pycache__/
+learn-project/*/dataset/
